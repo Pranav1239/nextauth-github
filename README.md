@@ -1,3 +1,7 @@
+
+
+![Screenshot 2023-09-14 141749](https://github.com/Pranav1239/nextauth-github/assets/142288127/cd7c4e78-8333-45a7-82a6-4e05fffe9a83)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
